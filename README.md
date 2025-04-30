@@ -8,8 +8,8 @@ Este proyecto tiene como objetivo analizar los datos de ventas de cuatro tiendas
 
 ## 📁 Estructura del Proyecto
 
-- `notebook.ipynb`: Contiene todo el análisis de datos, visualizaciones y conclusiones.
-- `datasets/`: Carpeta con los archivos CSV vinculados a cada tienda.
+- `AluraStoreLatam.ipynb`: Contiene todo el análisis de datos, visualizaciones y conclusiones.
+- `ExtraAluraStoreLatam`: Contiene los gráficos extras con los mapas.
 - `README.md`: Documento explicativo del proyecto.
 
 ---
@@ -18,7 +18,24 @@ Este proyecto tiene como objetivo analizar los datos de ventas de cuatro tiendas
 
 1. Cloná el repositorio o descargá los archivos.
 2. Asegurate de tener instalado [Google Colab](https://colab.research.google.com/) o ejecutá el notebook en Jupyter Notebook.
-3. Instalá las dependencias necesarias:
+3. Instalá las dependencias necesarias:  pip install pandas matplotlib seaborn folium
+4. Abrí notebook.ipynb y ejecutá las celdas paso a paso.
 
-```bash
-pip install pandas matplotlib seaborn folium
+---
+
+## 🧰 Dependencias
+pandas: para manipulación y análisis de datos
+matplotlib: para gráficos básicos
+seaborn: para visualizaciones avanzadas
+folium: para mapas interactivos
+numpy: para cálculos numéricos
+
+---
+
+## 📈 Análisis Realizados
+- Facturación total por tienda
+- Ventas por categoría
+- Valoración promedio de los clientes
+- Productos más y menos vendidos
+- Visualización geográfica de ventas
+- Comparativas mediante gráficos de barras, tortas, mapas y subplots
