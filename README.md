@@ -39,3 +39,23 @@ numpy: para cálculos numéricos
 - Productos más y menos vendidos
 - Visualización geográfica de ventas
 - Comparativas mediante gráficos de barras, tortas, mapas y subplots
+
+---
+
+# ✅ Conclusiones
+Luego de analizar todos los aspectos relevantes del negocio (facturación, opiniones de clientes, categorías más vendidas), se concluye que la Tienda 4 presenta el rendimiento más bajo en relación con las demás.
+Por lo tanto, se recomienda su venta para que el Sr. Juan pueda reinvertir en otro emprendimiento más rentable.
+
+---
+
+# ⚠️ Posibles problemas
+- Asegurarse de que los nombres de columnas sean consistentes en todos los DataFrames.
+- Verificar la presencia de valores nulos o inconsistencias en los datos.
+- Si se desea ejecutar mapas con folium, se necesita conexión a Internet para visualizar correctamente los tiles del mapa.
+
+---
+
+# 🤝 Autor
+Proyecto desarrollado como parte de una actividad académica de análisis de datos.
+- Desarrollado por:  Guillermo Londero
+- Correo: guillelondero@gmail.com
